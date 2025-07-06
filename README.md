@@ -9,7 +9,6 @@ Acme is a modern, full-stack **Invoice Management** application built using **Ne
 - 📋 View all invoices with filters and sorting
 - 👤 Manage customer data
 - 📊 Dashboard with invoice summaries
-- 🌐 API routes for seamless integration
 - 💅 Responsive UI with modern design
 
 ## 🛠 Tech Stack
