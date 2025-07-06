@@ -1,5 +1,37 @@
-## Next.js App Router Course - Starter
+# Acme - Invoice Management System 🧾
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Acme is a modern, full-stack **Invoice Management** application built using **Next.js**. It enables businesses to efficiently create, manage, and track invoices. Designed with simplicity and scalability in mind, Acme helps streamline your billing process.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## 🚀 Features
+
+- 🔐 Authentication (secure login/logout)
+- 🧾 Create, update, and delete invoices
+- 📋 View all invoices with filters and sorting
+- 👤 Manage customer data
+- 📊 Dashboard with invoice summaries
+- 🌐 API routes for seamless integration
+- 💅 Responsive UI with modern design
+
+## 🛠 Tech Stack
+
+- **Frontend & Backend:** [Next.js](https://nextjs.org/)
+- **Database:** PostgreSQL / MongoDB (depending on your setup)
+- **ORM:** Prisma / Mongoose
+- **Authentication:** NextAuth.js
+- **Styling:** Tailwind CSS 
+- **Deployment:** Vercel 
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- Node.js >= 20.x
+- pnpm
+- Database (PostgreSQL)
+
+### Installation
+
+```bash
+git clone https://github.com/Shreyash-kumar/acme.git
+cd acme-invoice
+pnpm install
